@@ -37,3 +37,8 @@ I'm a passionate developer with interests in data science, software development 
 
 - [LinkedIn](https://www.linkedin.com/in/tafara-mutsvedu-93825621b/)
 - [Personal Website](https://mutsvedutafara.com)
+
+### 🐍 GitHub Contribution Snake-Game Animation.
+
+![Snake animation](https://github.com/Tafaraa/Tafaraa/blob/output/github-snake.svg)
+
