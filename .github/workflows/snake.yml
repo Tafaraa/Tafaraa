@@ -31,7 +31,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#30a14e&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/ocean.gif?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
