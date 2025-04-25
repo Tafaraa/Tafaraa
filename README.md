@@ -30,8 +30,8 @@ I'm a passionate developer with interests in data science, software development 
 
 ## Projects
 
+- **[KMG Gas delivery Web App](https://github.com/Tafaraa/kmg-gas-delivery)**:A full-stack web application for managing LPG gas cylinder orders, delivery tracking, and admin operations in Midrand, South Africa.
 - **[Fake News Detector](https://github.com/Tafaraa/fake-news-detector)**: A tool to detect misinformation using advanced algorithms.
-- **[Python Learning](https://github.com/Tafaraa/pythonlearning)**: A collection of Python scripts for data science applications.
 
 ## Connect with Me
 
