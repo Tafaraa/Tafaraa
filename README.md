@@ -4,7 +4,7 @@
 
 I'm a passionate developer with interests in data science, software development and artificial intelligence. Currently pursuing my honors degree, I'm eager to apply my skills in real-world projects.
 
-- 🔭 I’m currently working on: [Fake News Detector](https://github.com/Tafaraa/fake-news-detector)
+- 🔭 I’m currently working on: [SkillLens]([https://github.com/Tafaraa/fake-news-detector](https://github.com/Tafaraa/SkillLens))
 - 🌱 I’m currently learning: Advanced Machine Learning techniques
 - 💬 Ask me about: Python, Data Analysis, Machine Learning
 - 📫 How to reach me: [mutsvedu.work@gmail.com](mailto:mutsvedu.work@gmail.com)
