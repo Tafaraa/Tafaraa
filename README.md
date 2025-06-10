@@ -1,7 +1,9 @@
 # Hi there, I'm Tafara 👋
-[profile image](https://mutsvedutafara.com/images/profile.webp)
-![Top Lang](https://img.shields.io/github/languages/top/Tafaraa?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/Tafaraa/skilllens)
+<p align="center">
+  <img src="https://mutsvedutafara.com/images/profile.webp" width="200" alt="Tafara Mutsvedu" />
+</p>
+
+![Last Commit](https://img.shields.io/github/last-commit/Tafaraa)
 
 🚀 Software Engineer & Data Scientist | 🌍 Based in South Africa  
 🎯 I build real-world, scalable applications that solve meaningful problems — blending full-stack development with the power of machine learning.
