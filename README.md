@@ -1,14 +1,16 @@
 # Hi there, I'm Tafara 👋
+[profile image](https://mutsvedutafara.com/images/profile.webp)
+![Top Lang](https://img.shields.io/github/languages/top/Tafaraa?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Tafaraa/skilllens)
 
-## About Me
+🚀 Software Engineer & Data Scientist | 🌍 Based in South Africa  
+🎯 I build real-world, scalable applications that solve meaningful problems — blending full-stack development with the power of machine learning.
 
-I'm a passionate developer with interests in data science, software development and artificial intelligence. Currently pursuing my honors degree, I'm eager to apply my skills in real-world projects.
+## 🎓 Education & Training
+- ALX Africa – Data Science Training Certificate (2024)
+- BSc Computer Science – Eduvos (2024)
+- BSc (Hons) Data Science – Eduvos (2025 expected)
 
-- 🔭 I’m currently working on: [SkillLens](https://github.com/Tafaraa/SkillLens)
-- 🌱 I’m currently learning: Advanced Machine Learning techniques
-- 💬 Ask me about: Python, Data Analysis, Machine Learning
-- 📫 How to reach me: [mutsvedu.work@gmail.com](mailto:mutsvedu.work@gmail.com)
-- ⚡ Fun fact: I love solving complex problems and participating in hackathons.
 
 ## 🛠 Skills & Tools
 
@@ -28,15 +30,27 @@ I'm a passionate developer with interests in data science, software development 
 - Git & GitHub | Docker | Linux | Jupyter Notebook | VS Code | Supabase | Netlify | AWS
 
 
-## Projects
+## 💼 Projects
 
-- **[KMG Gas delivery Web App](https://github.com/Tafaraa/kmg-gas-delivery)**:A full-stack web application for managing LPG gas cylinder orders, delivery tracking, and admin operations in Midrand, South Africa.
-- **[Fake News Detector](https://github.com/Tafaraa/fake-news-detector)**: A tool to detect misinformation using advanced algorithms.
+### 🧠 [SkillLens](https://skill-lens.vercel.app)
+An AI-powered skill analyzer that reviews GitHub repositories to benchmark developers and suggest personalized growth paths.  
+**Tech:** FastAPI • TypeScript • React • Vercel
+
+### 📰 [Fake News Detector](https://fakenewsdetectorx.netlify.app)
+A browser-based app using NLP to assess article credibility in real time.  
+**Tech:** Supabase • React • Python • Machine Learning
+
+### 🧑‍⚕️ [Revival Medical Aesthetics](https://revivalmedicalaesthetics.com)
+A full-stack booking and management web app for a GP/Aesthetician clinic.  
+**Tech:** React • Tailwind • API Integration • Docker
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tafara-mutsvedu-93825621b/)
 - [Personal Website](https://mutsvedutafara.com)
+- Email: mutsvedu.work@gmail.com
+
+  > "I believe in building with purpose — whether it's a line of code or a line of impact."
 
 ### 🐍 GitHub Contribution Snake-Game Animation.
 
