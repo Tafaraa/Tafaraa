@@ -48,7 +48,7 @@ A full-stack booking and management web app for a GP/Aesthetician clinic.
 
 - [LinkedIn](https://www.linkedin.com/in/tafara-mutsvedu-93825621b/)
 - [Personal Website](https://mutsvedutafara.com)
-- Email: mutsvedu.work@gmail.com
+- mutsvedu.work@gmail.com
 
   > "I believe in building with purpose — whether it's a line of code or a line of impact."
 
